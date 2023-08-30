@@ -43,15 +43,12 @@ public class FacebookSignUpTest {
         // Update date of birth in drop-down
         WebElement dayDropdown = driver.findElement(By.id("day"));
         // Select day value
-        // ...
 
         WebElement monthDropdown = driver.findElement(By.id("month"));
         // Select month value
-        // ...
 
         WebElement yearDropdown = driver.findElement(By.id("year"));
         // Select year value
-        // ...
 
         // Select gender
         WebElement genderRadioButton = driver.findElement(By.name("sex"));
